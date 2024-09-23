@@ -1,5 +1,5 @@
 # AWS_email_notification_service<br>
-Here's a more detailed overview of each AWS service:
+Here's a detailed overview of each AWS service:
 
 1. **AWS SNS (Simple Notification Service):**
    - **Use Case:** SNS enables communication between different systems, services, or users by sending notifications. It's commonly used to alert systems of events, update users, or send alerts across distributed applications.
